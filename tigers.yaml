@@ -2,7 +2,11 @@ team: Tigers
 
 manager: Brenda
 
+<<<<<<< HEAD
 coach: Tyler
+=======
+coach: Ruth
+>>>>>>> 0497a5c (Edit Tigers coach)
 
 members:
 - Linda
